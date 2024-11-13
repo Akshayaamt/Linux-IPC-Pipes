@@ -23,8 +23,6 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 ```
-DEVELOPED BY: RIYA P L
-REG NO: 212223240141
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 
